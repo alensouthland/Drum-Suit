@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Drum Suit
 
-You can use the [editor on GitHub](https://github.com/alensouthland/makers-drum-suit/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Playin drums can be fun. But, for those who are visually impaired, especially children who want to have fun playing it, the learning curve will be steeper.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+With this project, we have created a kit for children that can be used for playing drums with sensor pads attached to their body.
 
 ### Markdown
 
