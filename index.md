@@ -36,6 +36,6 @@ Watch demo of paper prototype [here](https://www.youtube.com/watch?v=JGsgZWZASrY
 ### Prototyping
 
 Jumper wires are connected to the capactive touch sensors and this setup is sanwiched in between cut out foam sheets.
-The connections to the arduino are done. The code for arduino is given in the file drum-suit.ino in this repository.
+The connections to the arduino are done. The code for processing is given in the file drum_suit.ino and the code for arduino  is given in the drum_suit_arduino.inoin this repository.
 
 ![](images/IMG_20200219_190039.jpg)
