@@ -22,7 +22,6 @@ After assembling it, we tried it out on a drummer to see how the setup felt like
 
 Watch demo of paper prototype [here](https://www.youtube.com/watch?v=JGsgZWZASrY).
 
-##
 ## Prototype
 ### Components Required
 
