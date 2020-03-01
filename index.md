@@ -10,14 +10,17 @@ The objective was to create a musical instrument for the differently abled. A lo
 
 The basic idea behind the device was to use 8 touch sensors to replicate an actual 8 piece drum kit ( Kick,Snare,Hi-Hat,Rack Toms, Floor Tom, Crash and Ride) with audio fed into the central arduino microcontroller which make the exact sounds when pressed. These touch pads would be ergonomically placed on a wearable suit which can be worn and taken off easily.
 
-## Diagram
-
+![ideation](images/IMG_20200217_140744.jpg)
 
 ## Paper prototype
 
 This involved figuring out the materials to be used and the basic physical model of how the expected result would be.
 
 After assembling it, we tried it out on a drummer to see how the setup felt like and whether it was feasible for both a visually impaired person and a normal person to play. Turns out the placement of the pads was effective as it replicated the actual positions of the drum kit which guaranteed easy playing.
+
+![](images/IMG_20200218_130324.jpg)
+
+Watch demo of paper prototype [here](https://www.youtube.com/watch?v=JGsgZWZASrY).
 
 ## Prototype
 ### Components Required
@@ -35,30 +38,4 @@ After assembling it, we tried it out on a drummer to see how the setup felt like
 Jumper wires are connected to the capactive touch sensors and this setup is sanwiched in between cut out foam sheets.
 The connections to the arduino are done. The code for arduino is given in the file drum-suit.ino in this repository.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alensouthland/makers-drum-suit/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](images/IMG_20200219_190039.jpg)
