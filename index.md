@@ -27,8 +27,13 @@ After assembling it, we tried it out on a drummer to see how the setup felt like
 3. Amplifier
 4. Jumper wires
 5. Breadboard
+6. foam sheet
 6. Laptop with Arduino IDE installed
 
+### Prototyping
+
+Jumper wires are connected to the capactive touch sensors and this setup is sanwiched in between cut out foam sheets.
+The connections to the arduino are done. The code for arduino is given in the file drum-suit.ino in this repository.
 
 ```markdown
 Syntax highlighted code block
