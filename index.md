@@ -13,6 +13,7 @@ The basic idea behind the device was to use 8 touch sensors to replicate an actu
 
 ![ideation](images/IMG_20200217_140744.jpg)
 </div>
+
 <div>
 ## Paper prototype
 
@@ -22,11 +23,13 @@ After assembling it, we tried it out on a drummer to see how the setup felt like
 
 ![](images/IMG_20200218_130324.jpg)
 </div>
+
 <div>
 ## Paper prototype demo
 
 <iframe width="710" height="400" src="https://www.youtube.com/embed/JGsgZWZASrY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 <div>
 ## Prototype
 ### Components Required
@@ -39,6 +42,7 @@ After assembling it, we tried it out on a drummer to see how the setup felt like
 6. foam sheet
 6. Laptop with Arduino IDE installed
 </div>
+
 <div>
 ### Prototyping
 
