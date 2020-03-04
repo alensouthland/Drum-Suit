@@ -20,7 +20,7 @@ After assembling it, we tried it out on a drummer to see how the setup felt like
 
 ![](images/IMG_20200218_130324.jpg)
 
-Watch demo of paper prototype [here](https://www.youtube.com/watch?v=JGsgZWZASrY).
+## Paper prototype demo
 
 <iframe width="710" height="400" src="https://www.youtube.com/embed/JGsgZWZASrY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
